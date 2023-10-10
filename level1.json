@@ -1,0 +1,38 @@
+{
+  "player":{ "x":0, "y":0 },
+  "platforms":[
+    { "x":0, "y":0, "height":1, "width":2 },
+    { "x":7,"y":0,"width":8,"height":1 },
+    { "x":16, "y":-2, "height":1, "width":10 },
+    { "x":24, "y":-1, "height":1, "width":3 },
+    {"x":28, "y":0, "height":1,"width":3},
+    {"x":34, "y":0, "height":1, "width":5},
+    { "x":42, "y":-1, "height":1, "width":4 },
+    {"x":50, "y":0, "height":1,"width":3},
+    {"x":55, "y":0, "height":1, "width":5},
+    {"x":64, "y":1, "height":1, "width":8},
+    {"x":75, "y":-1, "height":1, "width":5},
+    {"x":83, "y":0, "height":1, "width":4},
+    {"x":90, "y":1, "height":1, "width":3},
+    {"x":98, "y":2, "height":1, "width":8},
+    {"x":110, "y":-3, "height":1, "width":3},
+    {"x":118, "y":-3, "height":1, "width":8},
+    {"x":125, "y":-1, "height":1, "width":4},
+    {"x":145, "y": 0, "height":1, "width":35},
+    { "x":180, "y":0, "width":5, "height":1 }
+  ],
+  "items":[
+    {"type": "coin", "x":2, "y":2, "width": 0.5, "height": 0.5},
+    {"type": "coin", "x":4, "y":4, "width": 2, "height": 2},
+    {"type": "coin", "x":10, "y":2, "width": 0.5, "height": 0.5},
+    {"type": "coin", "x":12, "y":-0.5, "width": 0.5, "height": 0.5},
+    {"type": "coin", "x":14, "y":-0.5, "width": 0.5, "height": 0.5},
+    {"type": "coin", "x":15, "y":2, "width": 0.5, "height": 0.5},
+    {"type": "coin", "x":20, "y":1, "width": 0.5, "height": 0.5},
+    {"type": "coin", "x":25, "y":2, "width": 0.5, "height": 0.5},
+    {"type": "coin", "x":35, "y":2, "width": 0.5, "height": 0.5},
+    {"type": "coin", "x":45, "y":2, "width": 0.5, "height": 0.5},
+    {"type": "coin", "x":55, "y":2, "width": 0.5, "height": 0.5},
+    {"type": "coin", "x":65, "y":3, "width": 1, "height": 1}
+  ]
+}
